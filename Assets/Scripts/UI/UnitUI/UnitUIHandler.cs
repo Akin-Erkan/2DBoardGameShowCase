@@ -1,11 +1,11 @@
+using AkinErkan.ScriptableObjects;
 using TMPro;
-using UnicoStudio.ScriptableObjects;
 using UniRx;
 using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
 
-namespace UnicoStudio.UI
+namespace AkinErkan.UI
 {
     [RequireComponent(typeof(Image))]
     public class UnitUIHandler : MonoBehaviour, IPointerEnterHandler, IBeginDragHandler,IEndDragHandler, IDragHandler

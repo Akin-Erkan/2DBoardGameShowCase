@@ -1,8 +1,8 @@
-using UnicoStudio.GridSystem;
-using UnicoStudio.ScriptableObjects;
-using UnicoStudio.Unit;
+using AkinErkan.GridSystem;
+using AkinErkan.ScriptableObjects;
+using AkinErkan.Unit;
 
-namespace UnicoStudio
+namespace AkinErkan
 {
 
 

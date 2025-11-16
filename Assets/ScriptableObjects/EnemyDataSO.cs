@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace UnicoStudio.ScriptableObjects
+namespace AkinErkan.ScriptableObjects
 {
     [CreateAssetMenu(fileName = "EnemyData", menuName = "Game Data/Enemy")]
     public class EnemyDataSo : UnitDataSO

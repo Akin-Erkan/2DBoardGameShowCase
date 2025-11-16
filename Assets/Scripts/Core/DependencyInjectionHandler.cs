@@ -1,11 +1,11 @@
-using UnicoStudio.Enemy;
-using UnicoStudio.GridSystem;
-using UnicoStudio.Unit;
+using AkinErkan.Enemy;
+using AkinErkan.GridSystem;
+using AkinErkan.Unit;
 using UnityEngine;
 using Zenject;
 
 
-namespace UnicoStudio.Core
+namespace AkinErkan.Core
 {
     public class DependencyInjectionHandler : MonoInstaller
     {

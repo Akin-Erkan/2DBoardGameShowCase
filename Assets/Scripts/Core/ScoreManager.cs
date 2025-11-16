@@ -1,8 +1,8 @@
-using UnicoStudio.ScriptableObjects;
+using AkinErkan.ScriptableObjects;
 using UniRx;
 using UnityEngine;
 
-namespace UnicoStudio
+namespace AkinErkan
 {
     public class ScoreManager : MonoBehaviour
     {

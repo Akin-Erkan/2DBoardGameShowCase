@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace UnicoStudio.ScriptableObjects
+namespace AkinErkan.ScriptableObjects
 {
     public enum AttackDirection
     {

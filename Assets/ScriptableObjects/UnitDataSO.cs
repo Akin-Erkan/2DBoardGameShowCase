@@ -1,7 +1,7 @@
-using UnicoStudio.Unit;
+using AkinErkan.Unit;
 using UnityEngine;
 
-namespace UnicoStudio.ScriptableObjects
+namespace AkinErkan.ScriptableObjects
 {
     public abstract class UnitDataSO : ScriptableObject
     {

@@ -1,9 +1,9 @@
-using UnicoStudio.GridSystem;
+using AkinErkan.GridSystem;
 using UniRx;
 using UnityEngine;
 using Zenject;
 
-namespace UnicoStudio.Core
+namespace AkinErkan.Core
 {
     public class UnitPlacementController : MonoBehaviour
     {

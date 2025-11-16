@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace UnicoStudio.Extensions
+namespace AkinErkan.Extensions
 {
     public static class EnumerableExtensions
     {

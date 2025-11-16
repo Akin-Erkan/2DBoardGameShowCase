@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 
-namespace UnicoStudio.ScriptableObjects
+namespace AkinErkan.ScriptableObjects
 {
     [CreateAssetMenu(fileName = "LevelData", menuName = "Game Data/Level Data")]
     public class LevelDataSO : ScriptableObject

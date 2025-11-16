@@ -3,7 +3,7 @@ using UniRx;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace UnicoStudio.UI
+namespace AkinErkan.UI
 {
     public class UIManager : MonoBehaviour
     {

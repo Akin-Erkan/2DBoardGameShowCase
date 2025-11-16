@@ -1,11 +1,11 @@
 using System.Collections.Generic;
 using System.Linq;
-using UnicoStudio.ScriptableObjects;
+using AkinErkan.ScriptableObjects;
 using UniRx;
 using UnityEngine;
 using Zenject;
 
-namespace UnicoStudio.Unit
+namespace AkinErkan.Unit
 {
     public class UnitSpawnController : MonoBehaviour
     {

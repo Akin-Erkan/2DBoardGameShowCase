@@ -1,10 +1,10 @@
 using System;
+using AkinErkan.ScriptableObjects;
 using UniRx;
-using UnicoStudio.ScriptableObjects;
 using Zenject;
 using UnityEngine;
 
-namespace UnicoStudio.Unit
+namespace AkinErkan.Unit
 {
     public class Defender : UnitBase
     {

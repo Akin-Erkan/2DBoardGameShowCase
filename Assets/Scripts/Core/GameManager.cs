@@ -1,10 +1,10 @@
 using System.Collections;
-using UnicoStudio.ScriptableObjects;
+using AkinErkan.ScriptableObjects;
 using UniRx;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-namespace UnicoStudio
+namespace AkinErkan
 {
     public class GameManager : MonoBehaviour
     {

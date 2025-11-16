@@ -1,13 +1,13 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using UnicoStudio.ScriptableObjects;
-using UnicoStudio.Unit;
+using AkinErkan.ScriptableObjects;
+using AkinErkan.Unit;
 using UniRx;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace UnicoStudio.UI
+namespace AkinErkan.UI
 {
     public class UnitUIController : MonoBehaviour
     {

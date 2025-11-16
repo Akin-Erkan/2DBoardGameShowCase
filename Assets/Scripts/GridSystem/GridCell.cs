@@ -1,8 +1,8 @@
-using UnicoStudio.ScriptableObjects;
-using UnicoStudio.Unit;
+using AkinErkan.Unit;
+using AkinErkan.ScriptableObjects;
 using UnityEngine;
 
-namespace UnicoStudio.GridSystem
+namespace AkinErkan.GridSystem
 {
     public class GridCell : MonoBehaviour
     {

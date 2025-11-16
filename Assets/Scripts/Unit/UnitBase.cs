@@ -1,8 +1,8 @@
-using UnicoStudio.GridSystem;
-using UnicoStudio.ScriptableObjects;
+using AkinErkan.GridSystem;
+using AkinErkan.ScriptableObjects;
 using UnityEngine;
 
-namespace UnicoStudio.Unit
+namespace AkinErkan.Unit
 {
     public abstract class UnitBase : MonoBehaviour
     {

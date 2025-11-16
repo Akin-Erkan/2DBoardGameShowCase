@@ -1,10 +1,10 @@
-using UnicoStudio.Enemy;
-using UnicoStudio.GridSystem;
-using UnicoStudio.ScriptableObjects;
+using AkinErkan.Enemy;
+using AkinErkan.GridSystem;
+using AkinErkan.ScriptableObjects;
 using UnityEngine;
 using Zenject;
 
-namespace UnicoStudio.Unit
+namespace AkinErkan.Unit
 {
     public class UnitTargetingSystem : MonoBehaviour
     {

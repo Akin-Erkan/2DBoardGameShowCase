@@ -1,12 +1,12 @@
 using System;
 using System.Collections;
-using UnicoStudio.GridSystem;
-using UnicoStudio.ScriptableObjects;
+using AkinErkan.GridSystem;
+using AkinErkan.ScriptableObjects;
 using UniRx;
 using UnityEngine;
 using Zenject;
 
-namespace UnicoStudio.Unit
+namespace AkinErkan.Unit
 {
     public class Enemy : UnitBase
     {

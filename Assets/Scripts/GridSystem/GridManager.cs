@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using UniRx;
 using UnityEngine;
 
-namespace UnicoStudio.GridSystem
+namespace AkinErkan.GridSystem
 {
     public class GridManager : MonoBehaviour
     {
